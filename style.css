@@ -17,22 +17,22 @@ header{
 
 @keyframes animate{
   0%,100%{
-      background-image: url(/img/taj.jpg);
+      background-image: url(/taj.jpg);
   }  
   20%{
-      background-image: url(/img/mumbai.jpg);
+      background-image: url(/mumbai.jpg);
   }  
   40%{
-      background-image: url(/img/delhi.jpg);
+      background-image: url(/delhi.jpg);
   }  
   60%{
-      background-image: url(/img/jaipur.jpg);
+      background-image: url(/jaipur.jpg);
   }  
   80%{
-      background-image: url(/img/kerala.jpg);
+      background-image: url(/kerala.jpg);
   }  
   100%{
-      background-image: url(/img/darjeeling.jpg);
+      background-image: url(/darjeeling.jpg);
   }  
 
 
